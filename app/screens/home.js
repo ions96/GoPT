@@ -47,6 +47,7 @@ export default class Launch extends React.Component {
     }
 
     this.response =  await WebServices.getposts();
+    const savepoststinstore = await WebCache.setobjectcache('storeposts',this.response);
 
     StatusBar.setHidden(true);
 
