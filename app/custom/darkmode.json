@@ -1,0 +1,13 @@
+ 	colors= {
+ 		'white' :"#ffffff",
+ 		'black' :"#000000",
+ 		'homeback' :"#000000",
+ 		'itemback' :"#575656",
+ 		'backbuttonreset' :"#bd279c",
+ 		'hometexttitle' :"#dbdbdb",
+ 		'hometextbody' :"#b3b2b2",
+ 		'hometextid' :"#b3b2b2",
+ 		'hometextbuton' :"#f9ecf6", 		
+ 		'backbuttonneutru' :"#4773e3",
+
+ 	};
