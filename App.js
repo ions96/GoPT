@@ -18,10 +18,6 @@ import Styles from './app/styles/launchstyle';
 
 // import firebase from 'react-native-firebase';
 
-
-
-
-//----------------------------------------------------------------------
 class VerifyScreen extends React.Component {
   constructor() {
     super();

@@ -1,7 +1,7 @@
 import LightMode from './lightmode.json';
 import DarkMode from './darkmode.json';
 import WebCache from '../web/global/WebCache.js';
-const as = 55;
+// const as = 55;
 const obj = {
   async getName() {
   	const sele = await WebCache.getdatacache('selectedtheme');

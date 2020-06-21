@@ -20,8 +20,6 @@ const Container = styled.View`
  align-items: center;
  background-color:'rgba(255,255,255,0.5)';
 `;
-
-
  
 export default class Launch extends React.Component {
 
